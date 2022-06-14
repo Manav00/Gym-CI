@@ -1,19 +1,33 @@
 # Gym-Management-System
 
 Available Features:
+
 Admin Panel
+
 Employee Panel
+
 Gym Membership Management
+
 Manage Gym Packages
+
 Payments with Tax
+
 List Daily Visitors
+
 Sales Report
-Download Report (PDF)
+
+Download Report (PDF) //Feature Temprorary Removed
+
 Items/Juice Bar Management
+
 Search Records
+
 List Membership Remaining Balance
+
 Activity Logs
+
 Reports Bin
+
 User Management
 
 # Instructions: How to Run?
